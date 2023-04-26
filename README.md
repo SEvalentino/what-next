@@ -1,7 +1,6 @@
 # what-next
 
-- protocol linux
-- setup firewalld di linux
+- setup firewalld di linux -> done
 - setup kernel
 - systemd
 - arsitektur repo
